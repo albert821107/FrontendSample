@@ -52,10 +52,16 @@ label {
   font-weight: 800;
 }
 
+.register-section {
+  padding-top: 20px;
+  align-items: center;
+}
+
 .register-button {
   background-color: #63a26b;
   color: #fff;
   font-weight: 800;
+  border: none;
 }
 
 .read-the-docs {
